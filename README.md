@@ -20,19 +20,17 @@ Join the growing oTToDev community here: [oTToDev community](https://thinktank.o
 
 - **AI-powered full-stack web development** directly in your browser.
 - **Support for multiple LLMs** with an extensible architecture to integrate additional models.
-- **Streaming code output** for real-time feedback and debugging.
-- **Prompt caching** for improved performance and faster responses.
 - **Attach images to prompts** for better contextual understanding.
 - **Integrated terminal** to view output of LLM-run commands.
-- **Revert code to earlier versions** for easier debugging and version control.
+- **Revert code to earlier versions** for easier debugging and quicker changes.
 - **Download projects as ZIP** for easy portability.
-- **Integration-ready Docker support** for hassle-free setup.
+- **Integration-ready Docker support** for a hassle-free setup.
 
 ---
 
 ## Getting Started
 
-You can quickly explore oTToDev using the [hosted version](https://ottodev.cyopsys.com/). Here is a link to the thread where [aliasfox](https://thinktank.ottomator.ai/t/no-setup-required-batteries-not-included/1852) posted this hosted version. 
+You can quickly explore oTToDev using the [hosted version](https://ottodev.cyopsys.com/). Here is a link to a thread where [aliasfox](https://thinktank.ottomator.ai/t/no-setup-required-batteries-not-included/1852) posted the hosted version mentioned. 
 
 To contribute or self-host, follow the instructions below.
 
