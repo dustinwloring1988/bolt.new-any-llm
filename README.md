@@ -38,6 +38,8 @@ To contribute or self-host, follow the instructions below.
 
 ### Quick Start Guide
 
+The Quick Start Guide is below and [here is a link](https://coleam00.github.io/bolt.new-any-llm/#setup) to a more in deph guide if you experance any problems.
+
 #### Prerequisites
 - Install [Git](https://git-scm.com/downloads).
 - Install [Node.js](https://nodejs.org/en/download/).
@@ -73,6 +75,12 @@ cd bolt.new-any-llm/
    ```
 
 With Docker, hot reloading applies—changes to the code will automatically reflect in the running container.
+
+## Enabling Providers
+
+To enable providers, navigate to the **Settings** menu and select the one(s) you would like to activate.  
+Some model providers are hidden by default because they are experimental. To access them, you will need to enable experimental models in the **Settings** menu.
+
 
 ---
 
